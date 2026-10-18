@@ -113,5 +113,5 @@ The exact role expression depends on the relationships and column names in the f
 
 ## 👩‍💻 Author
 Suchika Patel <br>
-Aspiring Data Analyst | Power BI • SQL • Python
+Aspiring Data Analyst | Power BI • SQL • Python <br>
 💼 **LinkedIn:** https://www.linkedin.com/in/suchikapatel?utm_source=share_via&utm_content=profile&utm_medium=member_android
