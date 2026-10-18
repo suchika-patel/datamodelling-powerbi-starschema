@@ -112,6 +112,6 @@ The exact role expression depends on the relationships and column names in the f
 - Download the .pbix file from the powerbi/folder open it in power BI Desktop go to Model view to explore the schema.
 
 ## 👩‍💻 Author
-Suchika Patel<br> 
+Suchika Patel <br>
 Aspiring Data Analyst | Power BI • SQL • Python
 💼 **LinkedIn:** https://www.linkedin.com/in/suchikapatel?utm_source=share_via&utm_content=profile&utm_medium=member_android
